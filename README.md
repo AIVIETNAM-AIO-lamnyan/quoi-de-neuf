@@ -134,7 +134,6 @@ quoi-de-neuf/
 │   ├── data.csv              # Dữ liệu bài viết Threads đã thu thập (1,300 dòng)
 │   └── data.json             # Placeholder dữ liệu định dạng JSON
 ├── docs/
-│   └── proposal.tex          # Tài liệu đề xuất / báo cáo LaTeX
 ├── saved_model/
 │   └── README.md             # Nơi lưu trữ mô hình và artifact sau huấn luyện
 ├── src/
